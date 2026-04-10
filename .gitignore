@@ -1,0 +1,6 @@
+venv/
+appendcsv.csv
+products.csv
+products.json
+__pycache__/
+*.pyc
